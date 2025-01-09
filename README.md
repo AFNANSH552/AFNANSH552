@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello there !
 I am Afnan Khan, am an Engineer and Data Scientist and also Founder & CEO of GWEN AI
+
 🔭 Currently working on:<br>- Advanced time series forecasting models for retail demand prediction<br>- Developing automated ML pipelines using Kubeflow<br><br>👯 Looking to collaborate on:<br>- Open source data science projects, especially in NLP or computer vision<br>- Research papers on ML interpretability<br><br>🤝 Looking for help with:<br>- MLOps best practices and tooling<br>- Scaling ML models in production environments<br><br>🌱 Currently learning:<br>- Large Language Models and prompt engineering<br>- Distributed computing with Dask and Ray<br>- Advanced MLOps practices<br><br>💬 Ask me about:<br>- Statistical modeling and experimental design<br>- Building end-to-end ML pipelines<br>- Data visualization techniques<br><br>⚡ Fun fact:<br>"Data scientist" was termed the "sexiest job of the 21st century" by Harvard Business Review in 2012, sparking massive interest in the field.
 
 
